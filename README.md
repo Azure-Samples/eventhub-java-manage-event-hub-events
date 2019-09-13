@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Eventhub
-- platforms: java
+description: "Getting Started with Eventhub - Manage Event Hub Events - in Java"
+urlFragment: eventhub-java-manage-event-hub-events
 ---
 
 # Getting Started with Eventhub - Manage Event Hub Events - in Java #
